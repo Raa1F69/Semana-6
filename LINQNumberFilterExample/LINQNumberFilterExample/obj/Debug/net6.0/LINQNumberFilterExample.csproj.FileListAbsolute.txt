@@ -1,0 +1,14 @@
+C:\Users\rosyr\source\repos\LINQNumberFilterExample\LINQNumberFilterExample\bin\Debug\net6.0\LINQNumberFilterExample.exe
+C:\Users\rosyr\source\repos\LINQNumberFilterExample\LINQNumberFilterExample\bin\Debug\net6.0\LINQNumberFilterExample.deps.json
+C:\Users\rosyr\source\repos\LINQNumberFilterExample\LINQNumberFilterExample\bin\Debug\net6.0\LINQNumberFilterExample.runtimeconfig.json
+C:\Users\rosyr\source\repos\LINQNumberFilterExample\LINQNumberFilterExample\bin\Debug\net6.0\LINQNumberFilterExample.dll
+C:\Users\rosyr\source\repos\LINQNumberFilterExample\LINQNumberFilterExample\bin\Debug\net6.0\LINQNumberFilterExample.pdb
+C:\Users\rosyr\source\repos\LINQNumberFilterExample\LINQNumberFilterExample\obj\Debug\net6.0\LINQNumberFilterExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosyr\source\repos\LINQNumberFilterExample\LINQNumberFilterExample\obj\Debug\net6.0\LINQNumberFilterExample.AssemblyInfoInputs.cache
+C:\Users\rosyr\source\repos\LINQNumberFilterExample\LINQNumberFilterExample\obj\Debug\net6.0\LINQNumberFilterExample.AssemblyInfo.cs
+C:\Users\rosyr\source\repos\LINQNumberFilterExample\LINQNumberFilterExample\obj\Debug\net6.0\LINQNumberFilterExample.csproj.CoreCompileInputs.cache
+C:\Users\rosyr\source\repos\LINQNumberFilterExample\LINQNumberFilterExample\obj\Debug\net6.0\LINQNumberFilterExample.dll
+C:\Users\rosyr\source\repos\LINQNumberFilterExample\LINQNumberFilterExample\obj\Debug\net6.0\refint\LINQNumberFilterExample.dll
+C:\Users\rosyr\source\repos\LINQNumberFilterExample\LINQNumberFilterExample\obj\Debug\net6.0\LINQNumberFilterExample.pdb
+C:\Users\rosyr\source\repos\LINQNumberFilterExample\LINQNumberFilterExample\obj\Debug\net6.0\LINQNumberFilterExample.genruntimeconfig.cache
+C:\Users\rosyr\source\repos\LINQNumberFilterExample\LINQNumberFilterExample\obj\Debug\net6.0\ref\LINQNumberFilterExample.dll

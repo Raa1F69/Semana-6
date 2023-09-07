@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LINQNumberFilterExample/1.0.0": {
+        "runtime": {
+          "LINQNumberFilterExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQNumberFilterExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
